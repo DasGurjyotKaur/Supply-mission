@@ -7,7 +7,7 @@ class RedB {
       this.body = Bodies.rectangle(x,y,width,height,options);
       this.width = width;
       this.height = height;
-      this.shapeColor="green";
+      this.shapeColor="red";
       World.add(world, this.body);
     }
     display(){
