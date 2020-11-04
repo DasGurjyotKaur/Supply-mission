@@ -15,5 +15,6 @@ class RedB {
       rectMode(CENTER);
      
       rect(pos.x, pos.y, this.width, this.height);
+        fill("red")
     }
   }
